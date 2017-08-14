@@ -35,3 +35,9 @@
     </a>
   </div>
 {% endif %}
+
+{% if theme.ICP_License %}
+  <div>
+    <a href="http://www.miitbeian.gov.cn/" target="_blank">{{theme.ICP_License || '' }}</a>
+  </div>
+{% endif %}

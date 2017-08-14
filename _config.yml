@@ -5,6 +5,9 @@
 # Put your favicon.ico into `hexo-site/source/` directory.
 favicon: /favicon.ico
 
+# ICP License https://en.wikipedia.org/wiki/ICP_license
+ICP_License: 京ICP备10000001号
+
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
 
